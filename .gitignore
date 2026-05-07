@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.csv
+*.nc
+*.xlsx
+*.html
+*.png
+*.jpg
+*.jpeg
+*.zip
+outputs/
+6_data_outputs/
+files/
+files.zip
